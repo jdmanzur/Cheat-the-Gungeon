@@ -13,7 +13,7 @@ Para ajudar a entender melhor sobre o assunto, pesquisamos várias informações
 
 1. Baixamos o material disponível em [Cheat Engine](https://www.cheatengine.org/)
 2. Procuramos com a ferramenta [Cheat Engine](https://www.cheatengine.org/) cada endereço dos dados do jogo que serão utilizados no cheat
-3. Implementamos um programa em C# que detecta o endereço dos dados, e modifica os dados.
+3. Implementamos um programa em C# que detecta o endereço dos dados e modifica-os.
 4. Implementamos uma interface de usuário para facilitar o uso do programa.
 
 ### Instalação
