@@ -16,18 +16,18 @@ Para ajudar a entender melhor sobre o assunto, pesquisamos várias informações
 4. Implementamos uma interface de usuário para facilitar o uso do programa.
 
 ### Instalação
-a)
+1.
  Tenha instalado o jogo Enter the Gungeon em sua máquina.
-b)
+2.
  Baixe os arquivos executáveis no [Release](https://github.com/nyanham/Cheat-the-Gungeon/releases/tag/1) e extraia.
   
 
 ## Execução
-a)
+1.
  Abra o Cheat the Gungeon como Administrador.
-b)
+2.
  Abra o jogo Enter the Gungeon.
-c)
+3.
  Por último, utilize o hack que deseja.
  
  
