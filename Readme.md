@@ -27,7 +27,7 @@ Para ajudar a entender melhor sobre o assunto, pesquisamos várias informações
  
  
 ## Bugs/problemas conhecidos
-Existe a possibilidade de falha na alteração da memória.O Cheat utiliza de uma base de endereço somado a offs sets, logo, existe a possibilidade que o resultado dessa soma chegue há um endereço nao relacionado ao jogo, possibilitando bugs no cheat.
+Existe a possibilidade de falha na alteração da memória. O Cheat utiliza de uma base de endereço somado a offs sets, logo, existe a possibilidade que o resultado dessa soma chegue há um endereço nao relacionado ao jogo, possibilitando bugs no cheat.
 
 ### Exemplo:
 O cheat usa como base a memória que está sendo executada durante o jogo, ou seja, para alterar a quantidade de dinheiro, é injetado um valor diretamente na memoria, durante a execução do jogo. Se o endereço não for o correto, a quantidade de dinheiro não será alterada. O mesmo acontece com a vida e os blanks.
