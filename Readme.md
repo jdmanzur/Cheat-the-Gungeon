@@ -16,10 +16,8 @@ Para ajudar a entender melhor sobre o assunto, pesquisamos várias informações
 4. Implementamos uma interface de usuário para facilitar o uso do programa.
 
 ### Instalação
-1.
- Tenha instalado o jogo Enter the Gungeon em sua máquina.
-2.
- Baixe os arquivos executáveis no [Release](https://github.com/nyanham/Cheat-the-Gungeon/releases/tag/1) e extraia.
+1. Tenha instalado o jogo Enter the Gungeon em sua máquina.
+2. Baixe os arquivos executáveis no [Release](https://github.com/nyanham/Cheat-the-Gungeon/releases/tag/1) e extraia.
   
 
 ## Execução
