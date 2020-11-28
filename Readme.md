@@ -39,6 +39,8 @@ Rafael Jyo Kondo
 ## Imagens/screenshots
 
 
-![Imagem](https://github.com/Infinitemarcus/Hackerspace-template/blob/master/exemplo.png)
+![Imagem](https://github.com/nyanham/Cheat-the-Gungeon/blob/master/screenshot_1.png)
+![Imagem](https://github.com/nyanham/Cheat-the-Gungeon/blob/master/screenshot_2.png)
+![Imagem](https://github.com/nyanham/Cheat-the-Gungeon/blob/master/screenshot_3.png)
+![Imagem](https://github.com/nyanham/Cheat-the-Gungeon/blob/master/screenshot_4.png)
 
-É preferível que vocês usem imagens hospedadas no próprio GitHub do projeto. É só referenciar o link delas no comando acima.
