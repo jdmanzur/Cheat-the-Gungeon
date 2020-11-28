@@ -34,8 +34,8 @@ O cheat foi desenvolvido na versão 1.1.3 do jogo, portanto só funcionará nest
 O cheat usa como base a memória que está sendo executada durante o jogo, ou seja, para alterar a quantidade de dinheiro, é injetado um valor diretamente na memoria, durante a execução do jogo. Se o endereço não for o correto, a quantidade de dinheiro não será alterada. O mesmo acontece com a vida e os blanks.
 
 ## Autores
-Guilherme Henrique Rodrigues
-Rafael Jyo Kondo
+Guilherme Henrique Rodrigues.
+Rafael Jyo Kondo.
 
 ## Imagens/screenshots
 Tela Incial, onde irá exibir se o processo do jogo foi encontrado ou não.
