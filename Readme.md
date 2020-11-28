@@ -35,6 +35,7 @@ O cheat usa como base a memória que está sendo executada durante o jogo, ou se
 
 ## Autores
 Guilherme Henrique Rodrigues.
+
 Rafael Jyo Kondo.
 
 ## Imagens/screenshots
