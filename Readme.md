@@ -23,12 +23,9 @@ Para ajudar a entender melhor sobre o assunto, pesquisamos várias informações
   
 
 ## Execução
-1.
- Abra o Cheat the Gungeon como Administrador.
-2.
- Abra o jogo Enter the Gungeon.
-3.
- Por último, utilize o hack que deseja.
+1. Abra o Cheat the Gungeon como Administrador.
+2. Abra o jogo Enter the Gungeon.
+3. Por último, utilize o hack que deseja.
  
  
 ## Bugs/problemas conhecidos
