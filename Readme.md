@@ -37,16 +37,18 @@ Guilherme Henrique Rodrigues
 Rafael Jyo Kondo
 
 ## Imagens/screenshots
-
-Print da tela Incial do Cheat
+Tela Incial, onde irá exibir se o processo do jogo foi encontrado ou não.
+ 
 ![Imagem](https://github.com/nyanham/Cheat-the-Gungeon/blob/master/screenshot_1.png)
 
-Print do forms no visual studio
+
 ![Imagem](https://github.com/nyanham/Cheat-the-Gungeon/blob/master/screenshot_2.png)
 
 Uso das bibliotecas, utilizando do metodo write alterar a memoria em execução.
 ![Imagem](https://github.com/nyanham/Cheat-the-Gungeon/blob/master/screenshot_3.png)
 
 Uso das bibliotecas para encontrar o jogo em execução
+
+
 ![Imagem](https://github.com/nyanham/Cheat-the-Gungeon/blob/master/screenshot_4.png)
 
