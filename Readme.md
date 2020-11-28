@@ -5,8 +5,7 @@ Escolhemos fazer uma interface que nos permitem a usar "cheat" (truques especiai
 
 ### Pré-requisitos e recursos utilizados
 
-O grupo utilizou a linguagem C# para desenvolver a implementação geral do projeto, além de importar as seguintes bibliotecas:
-*
+O grupo utilizou a linguagem C# para desenvolver a implementação geral do projeto, além de importar as seguintes bibliotecas: Memory.dll.x64 e Memory.dll.x86 ambas desenvolvidas por NeWaGe,hollow87
 Para ajudar a entender melhor sobre o assunto, pesquisamos várias informações como [Como CHEATS e HACKS de jogos são criados?](https://www.youtube.com/watch?v=0w6Pb2p-r5o) para  compreender a implementação do cheat.
 
 ### Passo a passo
@@ -18,9 +17,10 @@ Para ajudar a entender melhor sobre o assunto, pesquisamos várias informações
 
 ### Instalação
 a)
- Tenha instalado o jogo Enter the Gungeon em sua máquina.
+ Tenha instalado o jogo Enter the Gungeon e o visual studio em sua máquina.
 b)
-  1. ......
+  1. Baixe as bibliotecas citadas acima. 
+  2. Inicie a execução do projeto no visual studio.
 
 ## Execução
 Passos necessários para executar, rodar ou testar seu projeto. Vocês podem seguir o mesmo modelo dos exemplos de Instalação.
