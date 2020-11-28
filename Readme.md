@@ -26,11 +26,10 @@ b)
 Passos necessários para executar, rodar ou testar seu projeto. Vocês podem seguir o mesmo modelo dos exemplos de Instalação.
 
 ## Bugs/problemas conhecidos
-Lista de possíveis problemas, bugs, falhas ou comportamentos esquisitos que o grupo conheça sobre o projeto. Esta seção é importante para que outras pessoas saibam quais tipos de erros elas podem encontrar. Seria legal citar motivos que o grupo acredita que sejam os causadores destas coisas, mas não é obrigatório.
+Existe a possibilidade de falha na alteração da memória. Cheat utiliza de uma base de endereço somado a offs sets, logo, existe a possibilidade que o resultado dessa soma chegue há um endereço nao relacionado ao jogo, possibilitando bugs no cheat.
 
 ### Exemplo:
-
-O projeto possui uma falha ao abrir a aba INICIO, após realizar uma inserção com caractéres acentuados. Também foi encontrada uma falha ao definir a tela de fundo com a cor Roxa, provavelmente por conta da palheta de cores limitada da tecnologia que foi utilizada.
+O cheat usa como base a memória que está sendo executada durante o jogo, ou seja, para alterar a quantidade de dinheiro, é injetado um valor diretamente na memoria, durante a execução do jogo. Se o endereço não for o correto, a quantidade de dinheiro não será alterada. O mesmo acontece com a vida e os blanks.
 
 ## Autores
 Guilherme Henrique Rodrigues
