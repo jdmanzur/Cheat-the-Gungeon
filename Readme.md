@@ -5,7 +5,7 @@ Escolhemos fazer uma interface que nos permitem a usar "cheat" (truques especiai
 
 ### Pré-requisitos e recursos utilizados
 
-O grupo utilizou a linguagem C# para desenvolver a implementação geral do projeto, além de importar as seguintes bibliotecas: Memory.dll.x64 e Memory.dll.x86 ambas desenvolvidas por NeWaGe,hollow87
+O grupo utilizou a linguagem C# para desenvolver a implementação geral do projeto, além de importar as seguintes bibliotecas: Memory.dll.x64 e Memory.dll.x86 ambas desenvolvidas por NeWaGe,hollow87.
 Para ajudar a entender melhor sobre o assunto, pesquisamos várias informações como [Como CHEATS e HACKS de jogos são criados?](https://www.youtube.com/watch?v=0w6Pb2p-r5o) para  compreender a implementação do cheat.
 
 ### Passo a passo
@@ -21,6 +21,7 @@ a)
 b)
   1. Baixe as bibliotecas citadas acima. 
   2. Inicie a execução do projeto no visual studio.
+  
 
 ## Execução
 Passos necessários para executar, rodar ou testar seu projeto. Vocês podem seguir o mesmo modelo dos exemplos de Instalação.
@@ -36,9 +37,7 @@ Guilherme Henrique Rodrigues
 Rafael Jyo Kondo
 
 ## Imagens/screenshots
-É necessário colocar pelo menos 3 imagens/screenshots do projeto, porém fiquem a vontade para colocar mais, a medida do que vocês acharem legal para ilustrar o projeto.
 
-Para colocar imagens no Readme do Github, vocês podem usar o seguinte comando (abrir este Readme no modo raw ou como txt):
 
 ![Imagem](https://github.com/Infinitemarcus/Hackerspace-template/blob/master/exemplo.png)
 
