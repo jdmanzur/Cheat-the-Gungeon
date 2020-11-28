@@ -19,13 +19,18 @@ Para ajudar a entender melhor sobre o assunto, pesquisamos várias informações
 a)
  Tenha instalado o jogo Enter the Gungeon em sua máquina.
 b)
-  1. Baixe o rar v1.0.rar
-  2. Extrai o rar na maquina e execute em modo administrador.
+ Baixe os arquivos executáveis no [Release](https://github.com/nyanham/Cheat-the-Gungeon/releases/tag/1) e extraia.
   
 
 ## Execução
-Passos necessários para executar, rodar ou testar seu projeto. Vocês podem seguir o mesmo modelo dos exemplos de Instalação.
-
+a)
+ Abra o Cheat the Gungeon como Administrador.
+b)
+ Abra o jogo Enter the Gungeon.
+c)
+ Por último, utilize o hack que deseja.
+ 
+ 
 ## Bugs/problemas conhecidos
 Existe a possibilidade de falha na alteração da memória.O Cheat utiliza de uma base de endereço somado a offs sets, logo, existe a possibilidade que o resultado dessa soma chegue há um endereço nao relacionado ao jogo, possibilitando bugs no cheat.
 
