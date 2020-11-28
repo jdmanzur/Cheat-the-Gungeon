@@ -17,10 +17,10 @@ Para ajudar a entender melhor sobre o assunto, pesquisamos várias informações
 
 ### Instalação
 a)
- Tenha instalado o jogo Enter the Gungeon e o visual studio em sua máquina.
+ Tenha instalado o jogo Enter the Gungeon em sua máquina.
 b)
-  1. Baixe as bibliotecas citadas acima. 
-  2. Inicie a execução do projeto no visual studio.
+  1. Baixe o rar v1.0.rar
+  2. Extrai o rar na maquina e execute em modo administrador.
   
 
 ## Execução
